@@ -5,5 +5,6 @@ class okeke
 static void Main(string[] args)
 {
     Console.WriteLine("welcome");
+    Console.WriteLine("testing");
 }
 }
